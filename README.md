@@ -14,6 +14,7 @@
 - Continuing from last point, there should be some limit on how many lectures for a particular subject a standard+section is taught in 1 day, for eg we cannot teach 6th A 5 lectures of Maths in 1 day, and then teach the rest 5 lectures on remaining 6 days by spreading out, i.e there should be evenness?
 - There should be a some margin given for rightly skilled teachers available to take classes in case of emergency/absence of teacher.
 - The workload should be evenly spread to teachers of the same skill level. For eg. there should be not much workload(total time spent) difference between Professor Aman and Professor Akash who can both teach Maths and Physics to classes 9 to 12
+- A standard + section will have a single teacher teaching a subject (So 11th A can have only Prof. Akash teaching Physics throughout the year, except the emergency situation. Its not like both Prof. Akash and Prof. Aman teach Physics to 11th A)
 - Add more here
 
 # Advanced Problems to include
